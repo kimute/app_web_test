@@ -41,5 +41,22 @@ body {
   .heading h1 span{
     display: block;
     color:crimson;
+  }
 
+  .heading p {
+    font-size: 1.2em;
+    line-height: 1.5em;
+  }
+
+  .btn-rental,
+  .btn-learn{
+    background-color: #fff;
+    color: #222;
+    text-transform: uppercase;
+    width: 150px;
+    display: inline-block;
+    text-align: center;
+    padding: 7px;
+    border-radius: 20px;
+    margin-right: 5px;
   }

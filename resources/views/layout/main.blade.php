@@ -19,7 +19,7 @@
             Unlimited rental of HERMES, CHANEL, LOUIS VUITTON
         </p>
         <a class="btn-rental" href="#none">Rental Now</a>
-        <a class="btn-rental" href="#none">Rental Now</a>
+        <a class="btn-learn" href="#none">Learn more</a>
        
        </div>
        <div class="sort">
