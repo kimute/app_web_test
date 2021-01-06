@@ -13,7 +13,7 @@
     <div class="content">
         <div class="items">
             <div class="item">
-                <img src="" alt="">
+                <img src="/img/" alt="Bag">
                 <div class="caption">
                     <h2>Declation</h2>
                     <p>something...</p>

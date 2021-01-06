@@ -14,7 +14,7 @@
            <video src="/img/web_pc_8sec_3.mp4" autoplay muted loop poster="#"></video>
        </div>
        <div class="heading">
-           <h1><span>Bag rental</span> The World Best Bags</h1>
+           <h1><span>Bag Rental</span> Welcome to Laxus</h1>
         <p>
             Unlimited rental of HERMES, CHANEL, LOUIS VUITTON
         </p>
@@ -23,7 +23,7 @@
        
        </div>
        <div class="sort">
-           <em>Bags</em><span>40,000+</span>
+           <em>Bags, We have </em><span>40,000+</span>
        </div>
        <div class="trigger">
            <span></span>

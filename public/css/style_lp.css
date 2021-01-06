@@ -3,7 +3,7 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
 body {
     margin: 0;
-    color: #fff;
+    
     font-family: "Montserrat", sans-serif;
     font-weight: 300;
 }
@@ -85,13 +85,15 @@ a {
 .sort em {
     display: block;
     font-style: normal;
-    font-size:30px;
+    color: crimson;
+    font-size:50px;
     letter-spacing: 5px;
     margin-bottom: -20px;
 }
 .sort span {
     font-family: 'Monoton',sans-serif;
     font-size: 80px;
+
 }
 
 /* Trigger*/
