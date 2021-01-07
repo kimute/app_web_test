@@ -13,7 +13,9 @@
     <div class="content">
         <div class="items">
             <div class="item">
-                <img src="/img/" alt="Bag">
+                <div class="item-img">
+                    <img class="item-image" src="/img/bag2.png" alt="Bag" >
+                </div>
                 <div class="caption">
                     <h2>Declation</h2>
                     <p>something...</p>

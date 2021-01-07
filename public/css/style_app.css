@@ -19,6 +19,14 @@ a {
 }
 .item {
     display: inline-block;
-    width: 300px;
-    height:300px;
+    width: 200px;
+    height:100px;
+    border:1px solid #ddd;
+    position: relative;
 }
+
+.item-img img {
+    max-width: 250px;
+    min-height: 100px;
+}
+

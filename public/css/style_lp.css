@@ -210,7 +210,7 @@ a {
 
 
 /*iphone 6/7/8*/
-@media (max-width: 480px){
+@media (max-width: 450px){
     .container{
         width: 100%;
     }
