@@ -7,21 +7,14 @@
     <title>商品パージ</title>
 </head>
 <body>
-    <div class="main-header">
-
-    </div>
-    <div class="content">
-        <div class="items">
-            <div class="item">
-                <div class="item-img">
-                    <img class="item-image" src="/img/bag2.png" alt="Bag" >
-                </div>
-                <div class="caption">
-                    <h2>Declation</h2>
-                    <p>something...</p>
-                    <p>Price:...</p>
-                    <a href="#none">View Details</a>
-                </div>
+    <div class="items">
+        <div class="item">
+            <img src="/img/bag2.png" alt="Bag" >
+            <div class="caption">
+                <h2>Seline</h2>
+                <p>This bag is releasd since...</p>
+                <p>Price: <s>$6800</s> → $3200</p>
+                <a href="#none">View Details</a>
             </div>
         </div>
     </div>
