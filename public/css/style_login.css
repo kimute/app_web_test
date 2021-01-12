@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:300,400,500,700,900&display=swap');
+body {
+    font-family: sans-serif;
+    line-height: 1.5em;
+    font-weight: 300;
+    background-color: #eee;
+    font-size: 15px;;
+}
+
+a {
+    color :#222;
+    text-decoration: none;
+}
+
+section {
+    height: calc(100vh - 60px);
+    position: relative;
+}
+
+.login {
+    width: 360px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.login-type h1 {
+    margin-top: 0;
+    font-size: 38px;
+    text-align: center;
+    font-weight: normal;
+}
+
+.btn {
+    border: 1px solid lightgray;
+    display: block;
+    padding: 15px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    text-align: center;
+    opacity: 0.5;
+}
+.btn:hover {
+    opacity: 2;
+}
+.btn:nth-of-type(1) {
+    background: url(/img/envelope-solid.svg) no-repeat center left 13px;
+}
+.btn:nth-of-type(2) {
+    background: url(/img/facebook-square-brands.svg) no-repeat center left 13px;
+}
+.btn:nth-of-type(3) {
+    background:  url(/img/line-brands.svg) no-repeat center left 13px;
+}
+.login-footer p {
+    text-align: center;
+}
+.login-footer p a:hover {
+    text-decoration: underline;
+    color: crimson;
+} 

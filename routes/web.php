@@ -21,3 +21,4 @@ use App\Http\Controllers\MainController;
 
 Route::get('/',[HomeController::class, 'index']);
 Route::get('/main',[MainController::class, 'show']);
+Route::get('/login' ,[MainController::class, 'login']);

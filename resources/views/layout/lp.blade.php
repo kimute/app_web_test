@@ -11,7 +11,7 @@
 <body>
     <div class="container">
        <div class="video-frame">
-           <video src="/img/web_pc_8sec_3.mp4" autoplay muted loop poster="#"></video>
+           <video src="#" autoplay muted loop poster="#"></video>
        </div>
        <div class="heading">
            <h1><span>Bag Rental</span> Welcome to Laxus</h1>

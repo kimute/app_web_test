@@ -14,7 +14,52 @@
                 <h2>Seline</h2>
                 <p>This bag is releasd since...</p>
                 <p>Price: <s>$6800</s> → $3200</p>
-                <a href="#none">View Details</a>
+                <a href="/login">View Details</a>
+            </div>
+        </div>
+        <div class="item">
+            <img src="/img/bag2.png" alt="Bag" >
+            <div class="caption">
+                <h2>Seline</h2>
+                <p>This bag is releasd since...</p>
+                <p>Price: <s>$6800</s> → $3200</p>
+                <a href="/login">View Details</a>
+            </div>
+        </div>
+        <div class="item">
+            <img src="/img/bag2.png" alt="Bag" >
+            <div class="caption">
+                <h2>Seline</h2>
+                <p>This bag is releasd since...</p>
+                <p>Price: <s>$6800</s> → $3200</p>
+                <a href="/login">View Details</a>
+            </div>
+        </div>
+        <div class="item">
+            <img src="/img/bag2.png" alt="Bag" >
+            <div class="caption">
+                <h2>Seline</h2>
+                <p>This bag is releasd since...</p>
+                <p>Price: <s>$6800</s> → $3200</p>
+                <a href="/login">View Details</a>
+            </div>
+        </div>
+        <div class="item">
+            <img src="/img/bag2.png" alt="Bag" >
+            <div class="caption">
+                <h2>Seline</h2>
+                <p>This bag is releasd since...</p>
+                <p>Price: <s>$6800</s> → $3200</p>
+                <a href="/login">View Details</a>
+            </div>
+        </div>
+        <div class="item">
+            <img src="/img/bag2.png" alt="Bag" >
+            <div class="caption">
+                <h2>Seline</h2>
+                <p>This bag is releasd since...</p>
+                <p>Price: <s>$6800</s> → $3200</p>
+                <a href="/login">View Details</a>
             </div>
         </div>
     </div>
